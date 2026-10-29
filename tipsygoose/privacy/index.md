@@ -37,7 +37,7 @@ If you send it, the developer receives your email address and the message. They 
 
 ## App stores
 
-Google Play and the App Store process data when you download and update the app, and may share crash reports and diagnostics with the developer if you allowed this in your device settings. The developer sees these reports in aggregated form, without your identity. On Google Play, the app is protected against redistribution by Google Play's automatic protection, which checks that the app was installed from Google Play; the developer has turned off the sharing of telemetry from this check. Google and Apple process this data under their own privacy policies.
+Google Play and the App Store process data when you download and update the app, and may share crash reports and diagnostics with the developer if you allowed this in your device settings. The developer sees these reports in aggregated form, without your identity. On Google Play, the app is protected against redistribution by Google Play's automatic protection, which checks that the app was installed from Google Play. Google and Apple process this data under their own privacy policies.
 
 ## What we don't do
 
